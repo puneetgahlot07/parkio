@@ -1,0 +1,309 @@
+{
+  "createYourAccountTitle": "Create your Account",
+  "createYourAccountSubtitle": "Please complete your profile to create PARKIO account.",
+  "email": "Email",
+  "phone": "Phone",
+  "phoneNumber": "Phone number",
+  "password": "Password",
+  "termsAndConditions": "Terms & Conditions",
+  "privacyPolicy": "Privacy Policy",
+  "agreeTermsAndPolicy": "I agree to '{'Terms & Conditions'}' and '{'Privacy Policy'}'",
+  "getStarted": "Get started",
+  "orContinueWith": "or continue with",
+  "alreadyHaveAccount": "Already have an account?",
+  "signIn": "Sign in",
+
+  "errorEmailEmpty": "Email cannot be empty",
+  "errorPhoneEmpty": "Phone number cannot be empty",
+  "errorPasswordEmpty": "Password cannot be empty",
+  "errorTermsNotAccepted": "Please agree to Terms & Conditions and Privacy Policy",
+
+  "termsAndConditionsTitle": "Terms & Conditions",
+
+  "privacyPolicyTitle": "Privacy Policy",
+
+  "signInTitle": "Sign in to your account",
+  "forgotPassword": "Forgot password?",
+  "signInButton": "Sign In",
+  "dontHaveAccount": "Don''t have an account?",
+  "signUp": "Sign up",
+
+  "forgotPasswordTitle": "Reset Password",
+  "forgotPasswordSubtitle": "Select which contact details should we use to reset your password.",
+  "createNewPasswordTitle" : "Create New Password",
+  "createNewPasswordSubtitle": "Create your new password",
+  "confirmPassword": "Confirm password",
+  "errorPasswordsShouldMatch": "Passwords should be the same",
+
+  "otpVerificationTitle": "OTP Verification",
+  "enterCodeFromEmail" : "Please enter the verification code we sent to email '{'{email}'}'",
+  "@enterCodeFromEmail": {
+    "placeholders": {
+      "email": {
+        "type": "String",
+        "example": "example@mail.com"
+      }
+    }
+  },
+  "enterCodeFromPhone": "Please enter the verification code we sent to phone number '{'{phoneNumber}'}'",
+  "@enterCodeFromPhone": {
+    "placeholders": {
+      "phoneNumber": {
+        "type": "String",
+        "example": "+46771793336"
+      }
+    }
+  },
+  "enterCodeFromUnknownTargetType": "Please enter the verification code we sent to '{'{target}'}'",
+  "@enterCodeFromUnknownTargetType": {
+    "placeholders": {
+      "target": {
+        "type": "String",
+        "example": "+46771793336"
+      }
+    }
+  },
+  "didntReceiveTheCode": "Didn''t receive the code?",
+  "resend": "Resend",
+  "verify": "Verify",
+
+  "addVehicleTitle": "Add your Vehicle",
+  "addVehicleSubtitle": "Add your vehicle and check the Registration Number Plate characters.",
+  "numberPlate": "Number plate",
+  "vehicleName": "Vehicle name",
+  "optional": "*Optional",
+  "saveAsMainVehicle": "Save as main vehicle",
+
+  "confirmCar": "Confirm car model",
+
+  "skip": "Skip",
+  "otherNumber": "Other registration number",
+  "confirm": "Confirm",
+  "continueButton": "Continue",
+
+  "addCardTitle": "Add Credit or Debit Card",
+  "cardNumber": "Card number",
+  "cardholderName": "Cardholder name",
+  "expirationDate": "Expiration date",
+  "expirationDateHint": "MM/YY",
+
+  "whyParkioTitle": "Why PARKIO",
+  "whyParkioListElement1": "Select the payment method you wish to use for parking",
+  "whyParkioListElement2": "Discover seamless parking: Find, book, and pay effortlessly through our app",
+  "whyParkioListElement3": "Save time with pre-booked spots: Say goodbye to circling around for parking",
+  "whyParkioListElement4": "Check real-time availability: Plan your journey stress-free",
+  "whyParkioListElement5": "Discover local attractions: Make the most of your parking location",
+  "whyParkioSubtitle": "*Smart Pricing for Every Need",
+  "whyParkioContent": "At Parkio, we believe in giving you flexible options that suit your budget. Our smart pricing model ensures that you find parking solutions that align with your preferences. Whether you''re looking for affordable daily rates, premium conveniences, or budget-friendly long-term options, Parkio has you covered. With transparent pricing and a range of choices, you''re in control of how much you spend on parking. Experience the freedom to choose and the confidence in knowing you''re getting value for your money with Parkio''s versatile pricing.",
+
+  "menuParkingTitle": "Parking",
+  "menuSettingsTitle": "Settings",
+  "menuPaymentTitle": "Payment",
+  "menuVehiclesTitle": "Vehicles",
+  "menuBusinessTitle": "Business",
+  "menuChargingTitle": "Charging",
+  "menuSharingTitle": "Sharing",
+  "menuWhyParkioTitle": "Why Parkio",
+  "menuBonusTitle": "Bonus",
+  "menuHelpTitle": "Help",
+
+  "tabProfile": "Profile",
+  "firstName": "First name",
+  "lastName": "Last name",
+  "address": "Street address",
+  "postalCode": "Postal code",
+  "city": "City",
+  "changePhone": "Change phone number",
+  "changeEmail": "Change email",
+  "changePassword": "Chane password",
+  "account": "Account",
+  "logOut": "Log Out",
+  "logOutModalSubtitle": "Are You sure You want to log out?",
+  "cancel": "Cancel",
+  "deleteAccount": "Delete account",
+  "delete": "Delete",
+  "deleteAccountModalSubtitle": "Are you sure you want o delete your account?\nThis action cannot be undone.",
+
+  "tabNotifications": "Notifications",
+  "pushNotification": "Push notification",
+  "panelActiveParkingSessionTitle": "Active parking session",
+  "panelActiveParkingSessionDescription": "Receive reminders about your ongoing parking session at a time interval of your choice.",
+  "panelAboutToEndTitle": "Before parking end",
+  "panelAboutToEndDescription": "No need to watch the clock. Choose how long in advance you want to be reminded about your parking session ending.",
+  "panelParkingEndedTitle": "Parking end",
+  "panelParkingEndedDescription": "Receive a confirmation that your parking session has ended.",
+  "panelReceiptsTitle": "Receipts",
+  "panelReceiptsDescription": "Receive a receipt once your parking session has been paid for.",
+  "nMinutes": "{count} min.}",
+  "@nMinutes": {
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+
+  "vehicles": "Vehicles",
+  "noVehiclesMessage": "Currently You have no vehicles",
+  "addNewVehicle": "Add new vehicle",
+  "deleteVehicle": "Delete vehicle",
+  "deleteVehicleModalSubtitle": "Are you sure you want to remove this vehicle?\nThis action cannot be undone.",
+
+  "paymentMethods": "Payment methods",
+  "noPaymentMethodsMessage": "Currently You have no payment methods",
+  "addNewPaymentMethod": "Add new payment method",
+  "deletePaymentMethod": "Delete payment method",
+  "deletePaymentMethodSubtitle": "Are you sure you want to remove this payment method?\nThis action cannot be undone.",
+  "deleteCard": "Delete payment method",
+  "deleteCardModalSubtitle": "Are you sure you want to remove this payment method?\nThis action cannot be undone.",
+
+  "saveChanges": "Save Changes",
+  "profileUpdatedSuccessfully": "Profile has been updated successfully",
+
+  "businessSubtitle": "Empower your company with an account for employee parking. Please leave your contact information, and our team will promptly reach out to you.",
+  "companyName": "Company name",
+  "errorFirstNameEmpty": "First name cannot be empty",
+  "errorLastNameEmpty": "Last name cannot be empty",
+  "errorCompanyNameEmpty": "Company name cannot be empty",
+
+  "helpSubtitle": "Can''t find what you''re looking for? Contact us and we will help you.",
+  "chatWithAssistant": "Chat with assistant",
+  "faq": "FAQ",
+  "faqTitle": "FAQ",
+
+  "noAreasMessage": "*No parking lots found nearby\nMove the map or use the search field",
+
+  "buyPermit": "Buy permit",
+  "timer": "Timer",
+  "start": "Start",
+  "extend": "Extend",
+  "stop": "Stop",
+  "parkAnotherCar": "Park another vehicle",
+  "privatePaymentType": "Private",
+  "corporatePaymentType": "Corporate",
+  "addVehicle": "Add vehicle",
+  "addMethod": "Add payment",
+  "nHoursMinutes": "{hh}h:{mm}m}",
+  "@nHoursMinutes": {
+    "placeholders": {
+      "hh": {
+        "type": "String",
+        "example": "01"
+      },
+      "mm": {
+        "type": "String",
+        "example": "59"
+      }
+    }
+  },
+
+  "selectVehicle": "Select vehicle",
+  "selectPaymentMethod": "Select payment method",
+
+  "parkingStarted": "Parking has started!",
+  "parkingStopped": "Parking has stopped!",
+  "parkingExtended": "Parking has extended!",
+  "parkingNotStarted": "An error occurred when starting a parking\nTry again",
+
+  "bonusSwitchText": "Remind me when I''m about to get a bonus",
+
+  "tabOngoing": "Ongoing",
+  "noOngoingParkingMessage": "Currently you have no active parking sessions",
+  "parkingEndsOn": "Ends on {dateTime}",
+  "@parkingEndsOn": {
+    "placeholders" : {
+      "dateTime" : {
+        "type": "String",
+        "example": "27/03/24 13:37"
+      }
+    }
+  },
+
+  "tabHistory": "History",
+  "noHistoryParkingMessage": "Currently you have no active parking sessions",
+  "parkingStartDate": "Started {dateTime}",
+  "@parkingStartedOn": {
+    "placeholders" : {
+      "dateTime" : {
+        "type": "String",
+        "example": "27/03/24 13:37"
+      }
+    }
+  },
+  "parkingEndDate": "Ended {dateTime}",
+  "@parkingEndDate": {
+    "placeholders" : {
+      "dateTime" : {
+        "type": "String",
+        "example": "27/03/24: 13:37"
+      }
+    }
+  },
+  "moreInformation": "More information",
+
+  "tabPermit": "Permits",
+  "permitTitle": "Permit",
+  "permitOption": "Permit options",
+  "selectPermitOption": "Select permit option",
+  "nMonths": "{n, plural, =0{0 months} =1{1 month} other{{n} months}}",
+  "@nMonths": {
+    "description": "Plural for months",
+    "placeholders": {
+      "n": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+  "nMonthForXSek": "{n, plural, =0{0 months} =1{1 month} other{{n} months}} for {x} SEK",
+  "@nMonthForXSek": {
+    "placeholders" : {
+      "n" : {
+        "type": "num"
+      },
+      "x" : {
+        "type": "double",
+        "format": "decimalPatternDigits",
+        "optionalParameters": {
+          "decimalDigits": 2
+        }
+      }
+    }
+  },
+  "paymentMethod": "Payment method",
+  "vehicle": "Vehicle",
+  "permitSuccessMessage": "Permit purchased successfully!",
+
+  "permitFrom": "From",
+  "permitUntil": "Until",
+  "monthlyRate" : "Monthly rate",
+  "tacitRenewal" : "Tacit renewal",
+
+  "searchForAreaCodeOrAddress": "Search for area code or address",
+  "areaSearchPlaceholder": "Find the place you’re looking for by searching for zone code, name or address.\nFor example 724",
+  "addresses": "Addresses",
+  "parkingAreas": "Parking areas",
+
+  "area_info": "Area information",
+
+  "off_street": "Off-Street lot",
+  "on_street": "On-Street lot",
+
+  "days": "Days",
+  "hours": "Hours",
+  "cost": "Cost",
+  "rest_of_time": "Rest of time",
+  "monday": "Monday",
+  "tuesday": "Tuesday",
+  "wednesday": "Wednesday",
+  "thursday": "Thursday",
+  "friday": "Friday",
+  "saturday": "Saturday",
+  "sunday": "Sunday",
+
+  "loading": "Loading",
+  "error": "Error",
+  "errorMessage": "An error occurred",
+  "retry": "Retry"
+}

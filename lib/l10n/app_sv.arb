@@ -1,0 +1,192 @@
+{
+  "createYourAccountTitle": "Skapa ditt Konto",
+  "createYourAccountSubtitle": "Fyll i din profil för att skapa PARKIO-konto.",
+  "email": "E-post",
+  "phone": "Telefon",
+  "phoneNumber": "Telefonnummer",
+  "password": "Lösenord",
+  "termsAndConditions": "Villkoren",
+  "privacyPolicy": "Sekretesspolicyn",
+  "agreeTermsAndPolicy": "Jag godkänner '{'Villkoren'}' och '{'Sekretesspolicyn'}'",
+  "getStarted": "Komma igång",
+  "orContinueWith": "eller fortsätt med",
+  "alreadyHaveAccount": "Har du redan ett konto?",
+  "signIn": "Logga in",
+
+  "errorEmailEmpty": "E-post får inte vara tom",
+  "errorPhoneEmpty": "Telefonnumret får inte vara tomt",
+  "errorPasswordEmpty": "Lösenordet får inte vara tomt",
+  "errorTermsNotAccepted": "Vänligen godkänn Användarvillkoren och Sekretesspolicyn",
+
+  "termsAndConditionsTitle": "Allmänna Villkor",
+  "termsAndConditionsText": "PLEASE READ CAREFULLY BEFORE DOWNLOADING AND INSTALLING THE APP FROM THIS WEBSITE.\n\nThis End-user Licence Agreement (EULA) is an agreement between you (End-user or you) and PIXELBYTE SDN BHD (Company No. 1104099-U) (Licensor, us or we) for:\n\nParkEasy mobile application software, the data supplied with the software, and the associated media (App)\n\nWe license the use of the App to you on the basis of this EULA subject to any rules or policies applied by any appstore provider (Appstore Rules). We do not sell the App to you. We remain the owners of the App at all times.\n\nOPERATING SYSTEM REQUIREMENTS: THIS APP REQUIRES A MODERN SMARTPHONE DEVICE. INTERNET ACCESS AND THE LATEST ANDROID OR IOS OPERATING SYSTEM.\n\nIMPORTANT NOTICE:\n\nBY DOWNLOADING THE APP FROM THIS WEBSITE OR CLICKING ON THE \"ACCEPT\" BUTTON BELOW YOU AGREE TO THE TERMS OF THE LICENCE WHICH WILL BIND YOU. THE TERMS OF THE LICENCE INCLUDE, IN PARTICULAR, THE PERSONAL DATA PROTECTION POLICY DEFINED IN section 1.5 AND LIMITATIONS ON LIABILITY IN section 7.\n\nIF YOU DO NOT AGREE TO THE TERMS OF THIS LICENCE, WE WILL NOT LICENSE THE APP TO YOU AND YOU MUST STOP THE DOWNLOADING PROCESS NOW BY CLICKING ON THE \"CANCEL\" BUTTON BELOW. IN THIS CASE THE DOWNLOADING PROCESS WILL TERMINATE.\n\nYou should print a copy of this EULA for future reference.",
+
+  "privacyPolicyTitle": "Sekretesspolicy",
+  "privacyPolicyText": "AGREED TERMS\n\n1. Acknowledgements\n\n1.1 The terms of this EULA apply to the App or any of the services accessible through the App (Services), including any updates or supplements to the App or any other Service such as the payment gateway, unless they come with separate terms, in which case those shall terms apply. If any open-source software is included in the App or any Service, the terms of an open-source licence may override some of the terms of this EULA.\n\n1.2 We may change these terms at any time by sending you an SMS or email with details of the change or notifying you of a change when you next start the App. The new terms may be displayed on-screen and you may be required to read and accept them to continue your use of the Services.\n\n1.3 From time to time updates to the App may be issued through the Appstore. Depending on the update, you may not be able to use the Services until you have downloaded the latest version of the App and accepted any new terms.\n\n1.4 You will be assumed to have obtained permission from the owners of the mobile telephone or handheld devices that are controlled, but not owned, by you and described in clause 2.2 (Devices) and to download a copy of the App onto the Devices. Your and their service providers for Internet access on the Devices may charge you and them. You accept responsibility in accordance with the terms of this EULA for the use of the App or any Service on or in relation to any Device, whether or not you own it.\n\n1.5 By using the App or any Service, you acknowledge and agree that Internet transmissions are never completely private or secure. You understand that any message or information you send using the App or any Service may be read or intercepted by others, even if there is a special notice that a particular transmission is encrypted. We will use any information that you supply to us in accordance with our Personal Data Protection Policy.",
+
+  "signInTitle": "Logga in på ditt konto",
+  "forgotPassword": "Glömt ditt lösenord?",
+  "signInButton": "Logga In",
+  "dontHaveAccount": "Har du inget konto?",
+  "signUp": "Bli Medlem",
+
+  "forgotPasswordTitle": "Återställ Lösenord",
+  "forgotPasswordSubtitle": "Välj vilka kontaktuppgifter vi ska använda för att återställa ditt lösenord.",
+  "createNewPasswordTitle" : "Skapa nytt Lösenord",
+  "createNewPasswordSubtitle": "Skapa ditt nya lösenord",
+  "confirmPassword": "Bekräfta lösenord",
+  "errorPasswordsShouldMatch": "Lösenord bör vara desamma",
+
+  "otpVerificationTitle": "OTP-Verifiering",
+  "enterCodeFromEmail" : "Vänligen ange verifieringskoden som vi skickade till e-post '{'{email}'}'",
+  "@enterCodeFromEmail": {
+    "placeholders": {
+      "email": {
+        "type": "String",
+        "example": "example@mail.com"
+      }
+    }
+  },
+  "enterCodeFromPhone": "Vänligen ange verifieringskoden som vi skickade till telefonnummer '{'{phoneNumber}'}'",
+  "@enterCodeFromPhone": {
+    "placeholders": {
+      "phoneNumber": {
+        "type": "String",
+        "example": "+46771793336"
+      }
+    }
+  },
+  "enterCodeFromUnknownTargetType": "Vänligen ange verifieringskoden som vi skickade till '{'{target}'}'",
+  "@enterCodeFromUnknownTargetType": {
+    "placeholders": {
+      "target": {
+        "type": "String",
+        "example": "+46771793336"
+      }
+    }
+  },
+  "didntReceiveTheCode": "Fick du inte koden?",
+  "resend": "Skicka igen",
+  "verify": "Kontrollera",
+
+  "addVehicleTitle": "Lägg till ditt Fordon",
+  "addVehicleSubtitle": "Lägg till ditt fordon och kontrollera registreringsskyltens tecken.",
+  "numberPlate": "Registreringsskylt",
+  "vehicleName": "Fordonets namn",
+  "optional": "*Valfritt",
+  "saveAsMainVehicle": "Spara som huvudfordon",
+
+  "confirmCar": "Bekräfta bilmodell",
+
+  "skip": "Hoppa",
+  "otherNumber": "Annat registreringsnummer",
+  "confirm": "Bekräfta",
+  "continueButton": "Fortsätta",
+
+  "addCardTitle": "Lägg till kredit- eller betalkort",
+  "cardNumber": "Kortnummer",
+  "cardholderName": "Kortinnehavarens namn",
+  "expirationDate": "Utgångsdatum",
+  "expirationDateHint": "MM/ÅÅ",
+
+  "whyParkioTitle": "Varför PARKIO",
+  "whyParkioListElement1": "Välj den betalningsmetod du vill använda för parkering",
+  "whyParkioListElement2": "Upptäck sömlös parkering: Hitta, boka och betala utan ansträngning genom vår applikation",
+  "whyParkioListElement3": "Spara tid med förbokade platser: Säg adjö till att cirkla runt för parkering",
+  "whyParkioListElement4": "Kontrollera tillgänglighet i realtid: Planera din resa utan stress",
+  "whyParkioListElement5": "Upptäck lokala attraktioner: Få ut det mesta av din parkeringsplats",
+  "whyParkioSubtitle": "*Smart prissättning för alla behov",
+  "whyParkioContent": "På Parkio tror vi på att ge dig flexibla alternativ som passar din budget. Vår smarta prismodell säkerställer att du hittar parkeringslösningar som passar dina preferenser. Oavsett om du letar efter överkomliga dagspriser, förstklassiga bekvämligheter eller budgetvänliga långsiktiga alternativ, har Parkio dig täckt. Med transparent prissättning och en rad valmöjligheter har du kontroll över hur mycket du spenderar på parkering. Upplev friheten att välja och förtroendet i att veta att du får valuta för pengarna med Parkios mångsidiga prissättning.",
+
+  "menuParkingTitle": "Parkering",
+  "menuSettingsTitle": "Inställningar",
+  "menuPaymentTitle": "Betalning",
+  "menuVehiclesTitle": "Fordon",
+  "menuBusinessTitle": "Företag",
+  "menuChargingTitle": "Laddar",
+  "menuSharingTitle": "Delning",
+  "menuWhyParkioTitle": "Varför Parkio",
+  "menuBonusTitle": "Bonus",
+  "menuHelpTitle": "Hjälp",
+
+  "tabProfile": "Profil",
+  "firstName": "Förnamn",
+  "lastName": "Efternamn",
+  "address": "Gatuadress",
+  "postalCode": "Postnummer",
+  "city": "Stad",
+  "changePhone": "Byt telefonnummer",
+  "changeEmail": "Byta e-mail",
+  "changePassword": "Ändra lösenord",
+  "account": "Konto",
+  "logOut": "Logga Ut",
+  "logOutModalSubtitle": "Är du säker på att du vill logga ut?",
+  "cancel": "Annullera",
+  "deleteAccount": "Radera konto",
+  "delete": "Radera",
+  "deleteAccountModalSubtitle": "Är du säker på att du vill radera ditt konto?\nDenna åtgärd kan inte ångras.",
+
+  "tabNotifications": "Aviseringar",
+  "pushNotification": "Push-meddelande",
+  "panelActiveParkingSessionTitle": "Aktiv parkeringssession",
+  "panelActiveParkingSessionDescription": "Få påminnelser om din pågående parkeringssession vid ett valfritt tidsintervall.",
+  "panelAboutToEndTitle": "Innan parkeringen slutar",
+  "panelAboutToEndDescription": "Du behöver inte titta på klockan. Välj hur lång tid i förväg du vill bli påmind om att din parkeringssession slutar.",
+  "panelParkingEndedTitle": "Parkeringsände",
+  "panelParkingEndedDescription": "Få en bekräftelse på att din parkeringssession har avslutats.",
+  "panelReceiptsTitle": "Kvitton",
+  "panelReceiptsDescription": "Få ett kvitto när din parkeringssession är betald.",
+  "nMinutes": "{count} min.}",
+  "@nMinutes": {
+    "placeholders": {
+      "count": {
+        "type": "num",
+        "format": "compact"
+      }
+    }
+  },
+
+  "vehicles": "Fordon",
+  "noVehiclesMessage": "För närvarande har du inga fordon",
+  "addNewVehicle": "Lägg till nytt fordon",
+  "deleteVehicle": "Radera fordon",
+  "deleteVehicleModalSubtitle": "Är du säker på att du vill ta bort det här fordonet?\nDenna åtgärd kan inte ångras.",
+
+  "paymentMethods": "Betalningsmetoder",
+  "noPaymentMethodsMessage": "För närvarande har du inga betalningsmetoder",
+  "addNewPaymentMethod": "Lägg till ny betalningsmetod",
+  "deletePaymentMethod": "Ta bort betalningsmetod",
+  "deletePaymentMethodSubtitle": "Är du säker på att du vill ta bort den här betalningsmetoden?\nDenna åtgärd kan inte ångras.",
+  "deleteCard": "Ta bort betalningsmetod",
+  "deleteCardModalSubtitle": "Är du säker på att du vill ta bort den här betalningsmetoden?\nDenna åtgärd kan inte ångras.",
+
+  "saveChanges": "Spara Ändringar",
+  "profileUpdatedSuccessfully": "Profilen har uppdaterats",
+
+  "businessSubtitle": "Styr ditt företag med ett konto för personalparkering. Lämna dina kontaktuppgifter så kontaktar vårt team omgående.",
+  "companyName": "Företagsnamn",
+  "errorFirstNameEmpty": "Förnamn får inte vara tomt",
+  "errorLastNameEmpty": "Efternamnet får inte vara tomt",
+  "errorCompanyNameEmpty": "Företagsnamnet får inte vara tomt",
+
+  "helpSubtitle": "Hittar du inte det du letar efter? Kontakta oss så hjälper vi dig.",
+  "chatWithAssistant": "Chatta med assistent",
+  "faq": "Vanliga frågor & svar",
+  "faqTitle": "Vanliga frågor",
+
+  "noAreasMessage": "*Inga parkeringsplatser hittades i närheten\nFlytta kartan eller använd sökfältet",
+  "errorGetAreas": "",
+
+  "buyPermit": "Köp tillstånd",
+  "timer": "Timer",
+  "start": "Start",
+  "extend": "Förlänga",
+  "stop": "Stopp",
+  "parkAnotherCar": "Parkera ett annat fordon",
+  "privatePaymentType": "Privat",
+  "corporatePaymentType": "Företag",
+
+  "loading": "Laddar",
+  "errorMessage": "Ett fel uppstod",
+  "retry": "Försök igen"
+}

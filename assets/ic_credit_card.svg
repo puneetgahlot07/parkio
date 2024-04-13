@@ -1,0 +1,14 @@
+<svg width="29" height="20" viewBox="0 0 29 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="bank-card">
+<g clip-path="url(#clip0_1_23)">
+<path id="Rectangle 6" fill-rule="evenodd" clip-rule="evenodd" d="M1 17.5C1 18.3284 1.67157 19 2.5 19H26.5C27.3284 19 28 18.3284 28 17.5V2.5C28 1.67157 27.3284 1 26.5 1H2.5C1.67157 1 1 1.67157 1 2.5V17.5Z" fill="#424448"/>
+<path id="Rectangle 6 Copy 3" fill-rule="evenodd" clip-rule="evenodd" d="M1 9H28V2.5C28 1.67157 27.3284 1 26.5 1H2.5C1.67157 1 1 1.67157 1 2.5V9Z" fill="#EFEEF7" fill-opacity="0.85"/>
+</g>
+<rect width="27" height="18" rx="3" transform="matrix(1 0 0 -1 1 19)" stroke="white" stroke-miterlimit="0" stroke-linejoin="bevel"/>
+</g>
+<defs>
+<clipPath id="clip0_1_23">
+<rect width="27" height="18" rx="3" transform="matrix(1 0 0 -1 1 19)" fill="white"/>
+</clipPath>
+</defs>
+</svg>
